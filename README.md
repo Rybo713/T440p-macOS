@@ -1,5 +1,5 @@
 # macOS for Lenovo ThinkPad T440p (February 1, 2020)
-![T440p](https://cdn.shoplightspeed.com/shops/618208/files/9747066/80x80x1/lenovo-lenovo-refurbished-t440p-laptop-kit-le-2349.jpg)
+![T440p](https://www.pc-canada.com/dd2/img/item/A-1500x1500/548012.jpg)
 
 This project is to give the T440p a complete and functional build of macOS Catalina `10.15.3` using the guide from [here](https://github.com/jloisel/t440p) with modified kexts.
 
@@ -63,13 +63,10 @@ If you use a USB wifi adapter look for drivers from that model.
 2. You will have to wipe the entire disk
 3. Make sure to have a modded BIOS with wifi whitelist removed
 4. Change your BIOS settings:
-  1. Security Tab
-    -
-
-  2. Startup Tab
-    - `UEFI/Legacy Boot` Both
-    - `UEFI/Legacy Priority` UEFI First
-    - `CSM Support` Yes
+     - **Startup Tab**
+      - `UEFI/Legacy Boot` Both
+      - `UEFI/Legacy Priority` UEFI First
+      - `CSM Support` Yes
 
 5. For Installation go to the [wiki]().
 
