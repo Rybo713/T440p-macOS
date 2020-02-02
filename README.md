@@ -16,8 +16,9 @@ RAM: 1600MHz Kingston Hyper X Impact 16GB Dual Channel DDR3
 
 Display: 14" Innolux N140HCE-EN1 Rev.C2 IPS Anti-Glare FHD, 1920x1080, 60Hz
 
-Storage: SATA KingSpec NT-512 SSD 512GB
-         SATA Samsung 860 Pro SSD 256GB
+Storage: 
+- SATA KingSpec NT-512 SSD 512GB
+- SATA Samsung 860 Pro SSD 256GB
 
 Partition Type: APFS (TRIM automatically enabled by APFS)
 
