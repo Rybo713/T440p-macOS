@@ -40,8 +40,8 @@ Your ThinkPad may or may not have the exact specs as mine. Results may vary. If 
 If you use a USB wifi adapter look for drivers from that model.
 
 ## Tested Configurations
-- macOS 10.15.3 (19D76) (Clover)
-- macOS 11.2.3 (20D91) (OpenCore)
+- macOS 10.15.3 (19D76) (Clover) (90% Functional)
+- macOS 11.2.3 (20D91) (OpenCore) (98% Functional)
 - BIOS v2.54 Modded
 
 ## What Works / Doesn't Work (Clover)
