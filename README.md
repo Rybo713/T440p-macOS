@@ -1,4 +1,4 @@
-# macOS for Lenovo ThinkPad T440p (March 24, 2021)
+# macOS for Lenovo ThinkPad T440p (March 25, 2021)
 ![T440p](https://www.pc-canada.com/dd2/img/item/A-1500x1500/548012.jpg)
 
 This project is to give the T440p a complete and functional build of macOS Big Sur `11.2.3` using the guide from [here](https://github.com/jloisel/t440p) and [here](https://github.com/valnoxy/t440p-oc) with modified kexts and config.plist.
